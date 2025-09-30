@@ -139,8 +139,3 @@ park-and-ride/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Contact
-
-Sarthak Garg - [GitHub](https://github.com/sarthakgarg07)
-
-Project Link: [https://github.com/sarthakgarg07/park-and-ride](https://github.com/sarthakgarg07/park-and-ride)
